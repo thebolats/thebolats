@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Barış 
 #### Cyber Security and Development
-![Cyber Security and Development](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
+![Cyber Security and Development](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-45f1b.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
