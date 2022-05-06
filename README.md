@@ -3,9 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Barış from Turkey, and I develop myself in the field of software and cyber security. I really enjoy learning languages and frameworks like Java and Python 
 
-Skills: JAVA / PYTHON / C# / C++ / CSS
+Skills: JAVA / PYTHON / C# / Linux 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java, Python 
