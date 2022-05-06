@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=thebolats&show_icons=true&theme=radical)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/the_bolats/)
