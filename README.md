@@ -18,7 +18,7 @@ Skills: JAVA / PYTHON / C# / Linux
 <a href="https://codepen.io/the_bolats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="the_bolats" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/barisbolatcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barisbolatcs" height="30" width="40" /></a>
 <a href="https://instagram.com/the_bolats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_bolats" height="30" width="40" /></a>
-<a href="https://discord.gg/(#7521)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(#7521)" height="30" width="40" /></a>
+
 
   
 <h3 align="left">Languages and Tools:</h3>
