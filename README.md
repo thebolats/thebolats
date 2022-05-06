@@ -30,6 +30,5 @@ Skills: JAVA / PYTHON / C# / Linux
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=thebolats&show_icons=true&theme=radical)
 
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> 
+<img src="https://komarev.com/ghpvc/?username=thebolats&&style=flat-square" align="center" />
 
