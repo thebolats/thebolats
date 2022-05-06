@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/barisbolatcs#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/barisbolatcs#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/the_bolats#gh-light-mode-only)
+
 [![website](./img/instagram-dark.svg)](https://instagram.com/the_bolats#gh-dark-mode-only)
