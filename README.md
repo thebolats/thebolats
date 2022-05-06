@@ -31,5 +31,7 @@ Skills: JAVA / PYTHON / C# / Linux
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=thebolats&show_icons=true&theme=radical)
 
 
-
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
 
