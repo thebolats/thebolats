@@ -1,26 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'am Barış 
+#### Cyber Security and Development
+![Cyber Security and Development](https://cdn.webtekno.com/media/cache/content_detail_v2/article/23831/turkiye-deki-yazilim-sektorunu-buyutmek-icin-devletten-onemli-adim-1483725143.jpg)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: JAVA / PYTHON / C# / C++ / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Java, Python 
+- 📫 How to reach me: the_bolats@hotmail.com 
+- ⚡ Fun fact: I love to play pc game  
 
 
-**thebolats/thebolats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thebolats)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/barisbolatcs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_bolats/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/the_bolats)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=thebolats&show_icons=true&theme=radical)
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/barisbolatcs#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/barisbolatcs#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/the_bolats#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/the_bolats#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thebolats&show_icons=true)  
