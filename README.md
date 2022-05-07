@@ -7,7 +7,7 @@ I'm Barış from Turkey, I'm a university student and I develop myself in the fi
 
 Skills: JAVA / PYTHON / C# / Linux 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on home. 
 - 🌱 I’m currently learning Java, Python 
 - 📫 How to reach me: the_bolats@hotmail.com 
 - ⚡ Fun fact: I love to play pc game  
