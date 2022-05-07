@@ -15,7 +15,7 @@ Skills: JAVA / PYTHON / C# / Linux
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/the_bolats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="the_bolats" height="20" width="40" /></a>
+<a href="https://codepen.io/the_bolats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="the_bolats" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/barisbolatcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barisbolatcs" height="30" width="40" /></a>
 <a href="https://instagram.com/the_bolats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_bolats" height="30" width="40" /></a>
 
